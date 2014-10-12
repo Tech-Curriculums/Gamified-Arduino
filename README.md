@@ -1,4 +1,10 @@
 Gamified-Arduino
 ================
 
-Choose your board
+Choose your board, select your adventure:
+
+Arduino nano
+
+Arduino uno
+
+Arduino micro
